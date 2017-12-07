@@ -10,7 +10,7 @@ The result can be in any order.
 ```
 my thoughts:
 1. for each value in 'nums1', ->
-   check if it exits in 'nums2' ->
+   check if it exists in 'nums2' ->
    if yes, append it to the result ->
    return result.
    O(n^2)
@@ -52,3 +52,8 @@ class Solution(object):
 
 my comments:
 solution accepted, 45ms run time
+from other ppl's solution:
+1. convert list 'nums1' to set:
+`set(nums1)`
+2. list of intersection of set A & set B:
+list(set(nums1) & set(nums2))
