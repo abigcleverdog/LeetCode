@@ -9,6 +9,7 @@ Each element in the result must be unique.
 The result can be in any order.
 ```
 my thoughts:
+```
 1. for each value in 'nums1', ->
    check if it exists in 'nums2' ->
    if yes, append it to the result ->
@@ -24,7 +25,7 @@ my thoughts:
    if yes, append it to the result ->
    return result.
    O(n*lg(n)+n*lg(n)) = O(n*lg(n))
-   
+```
 
 my solution:
 ```

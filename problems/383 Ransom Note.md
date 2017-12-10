@@ -12,6 +12,7 @@ canConstruct("aa", "aab") -> true
 
 ```
 my thoughts:
+```
 1. for each char in 'str1', ->
    check if it exists in 'str2' ->
 	if yes, mark off the index in 'str2' for future search ->
@@ -33,7 +34,8 @@ my thoughts:
    as I need to go through char in 'str1' for sure.
    There may be some tweak to save time in special cases,
    such as str1 is longer than str2.
-
+```
+   
 my solution:
 ```
 class Solution(object):
