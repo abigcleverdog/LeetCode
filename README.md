@@ -2,10 +2,24 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
    
 -----
+* 12/13 Wed
+1. 543 [Diameter of Binary Tree](https://github.com/abigcleverdog/LeetCode/blob/master/problems/543.md)
+2. 112 [Path Sum](https://github.com/abigcleverdog/LeetCode/blob/master/problems/112.md)
+3. 111 [Minimum Depth of Binary Tree](https://github.com/abigcleverdog/LeetCode/blob/master/problems/111.md)
+4. 110 [Balacned Binary Tree](https://github.com/abigcleverdog/LeetCode/blob/master/problems/110.md)
+   
+-----
+* 12/12 Tue
+1. 501 [Find Mode in Binary Search Tree](https://github.com/abigcleverdog/LeetCode/blob/master/problems/501.md)
+2. 671 [Second Minimum Node In a Binary Tree](https://github.com/abigcleverdog/LeetCode/blob/master/problems/671.md)
+   
+-----
 * 12/11 Mon
 1. 107 [Binary Tree Level Order Traversal II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/107.md)
 2. 226 [Invert Binary Tree](https://github.com/abigcleverdog/LeetCode/blob/master/problems/226.md)
 3. 257 [Binary Tree Paths](https://github.com/abigcleverdog/LeetCode/blob/master/problems/257.md)
+4. 404 [Sum of Left Leaves](https://github.com/abigcleverdog/LeetCode/blob/master/problems/404.md)
+5. 437 [Path Sum III](https://github.com/abigcleverdog/LeetCode/blob/master/problems/437.md)
      
 -----
 * 12/10 Sun
