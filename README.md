@@ -2,6 +2,23 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
 
 -----
+* 12/18 Sun (5, 41)
+1. 628 [Maximum Product of Three Numbers](https://github.com/abigcleverdog/LeetCode/blob/master/problems/628.md)
+2. 674 [Longest Continuous Increasing Subsequence](https://github.com/abigcleverdog/LeetCode/blob/master/problems/674.md)
+3. 482 [License Key Formatting](https://github.com/abigcleverdog/LeetCode/blob/master/problems/482.md)
+4. 724 [Find Pivot Index](https://github.com/abigcleverdog/LeetCode/blob/master/problems/724.md)
+5. 720 [Longest Word in Dictionary](https://github.com/abigcleverdog/LeetCode/blob/master/problems/720.md)
+
+-----
+* 12/17 Sun (2, 36)
+1. 599 [Mininmum Index Sum of Two Lists](https://github.com/abigcleverdog/LeetCode/blob/master/problems/599.md)
+2. 661 [Image Smoother](https://github.com/abigcleverdog/LeetCode/blob/master/problems/661.md)
+
+-----
+* 12/16 Sat (1, 34)
+1. 697 [Degree of an Array](https://github.com/abigcleverdog/LeetCode/blob/master/problems/697.md)
+
+-----
 * 12/15 Fri (3, 33)
 1. 513 [Find Bottom Left Tree Value](https://github.com/abigcleverdog/LeetCode/blob/master/problems/513.md)
 2. 508 [Most Frequent Subtree Sum](https://github.com/abigcleverdog/LeetCode/blob/master/problems/508.md)
