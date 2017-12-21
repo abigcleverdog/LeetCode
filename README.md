@@ -2,7 +2,12 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
 
 -----
-* 12/18 Sun (5, 41)
+* 12/20 Wed (, )
+1. 36 [Valid Sudoku](https://github.com/abigcleverdog/LeetCode/blob/master/problems/36.md)
+2. 37 [Sudoku Solver](https://github.com/abigcleverdog/LeetCode/blob/master/problems/37.md)  -- Not done
+   
+-----
+* 12/18 Mon (5, 41)
 1. 628 [Maximum Product of Three Numbers](https://github.com/abigcleverdog/LeetCode/blob/master/problems/628.md)
 2. 674 [Longest Continuous Increasing Subsequence](https://github.com/abigcleverdog/LeetCode/blob/master/problems/674.md)
 3. 482 [License Key Formatting](https://github.com/abigcleverdog/LeetCode/blob/master/problems/482.md)
