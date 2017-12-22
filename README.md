@@ -2,7 +2,21 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
 
 -----
-* 12/20 Wed (, )
+* 12/21 Thu (10, 52)
+1. 53 [Maximum Subarray](https://github.com/abigcleverdog/LeetCode/blob/master/problems/53.md)
+2. 645 [Set Mismatch](https://github.com/abigcleverdog/LeetCode/blob/master/problems/645.md)
+3. 198 [House Robber](https://github.com/abigcleverdog/LeetCode/blob/master/problems/198.md)
+4. 643 [Maximum Average Subarray I](https://github.com/abigcleverdog/LeetCode/blob/master/problems/643.md)
+5. 119 [Pascal's Triangle II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/119.md)
+6. 232 [Implement Queue using Stacks](https://github.com/abigcleverdog/LeetCode/blob/master/problems/232.md)
+7. 443 [String Compression](https://github.com/abigcleverdog/LeetCode/blob/master/problems/443.md)
+8. 434 [Number of Segments in a String](https://github.com/abigcleverdog/LeetCode/blob/master/problems/434.md)
+9. 172 [Fractorial Trailing Zeroes](https://github.com/abigcleverdog/LeetCode/blob/master/problems/172.md)
+10. 1 [Two Sum](https://github.com/abigcleverdog/LeetCode/blob/master/problems/1.md)
+
+
+-----
+* 12/20 Wed (1, 42)
 1. 36 [Valid Sudoku](https://github.com/abigcleverdog/LeetCode/blob/master/problems/36.md)
 2. 37 [Sudoku Solver](https://github.com/abigcleverdog/LeetCode/blob/master/problems/37.md)  -- Not done
    
