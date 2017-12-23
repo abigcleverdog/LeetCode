@@ -2,6 +2,16 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
 
 -----
+* 12/22 Fri (, )
+1. 374 [Guess Number Higher or Lower](https://github.com/abigcleverdog/LeetCode/blob/master/problems/374.md)
+2. 38 [Guess Number Higher or Lower](https://github.com/abigcleverdog/LeetCode/blob/master/problems/38.md)
+3. 26 [Remove Duplicates from Sorted Array](https://github.com/abigcleverdog/LeetCode/blob/master/problems/26.md)
+4. 9 [Palindrome Number](https://github.com/abigcleverdog/LeetCode/blob/master/problems/9.md)
+5. 141 [Linked List Cycle](https://github.com/abigcleverdog/LeetCode/blob/master/problems/141.md)
+6. 205 [Isomorphic Strings](https://github.com/abigcleverdog/LeetCode/blob/master/problems/205.md)
+7. 686 [Repeated String Match](https://github.com/abigcleverdog/LeetCode/blob/master/problems/686.md)
+
+-----
 * 12/21 Thu (10, 52)
 1. 53 [Maximum Subarray](https://github.com/abigcleverdog/LeetCode/blob/master/problems/53.md)
 2. 645 [Set Mismatch](https://github.com/abigcleverdog/LeetCode/blob/master/problems/645.md)
