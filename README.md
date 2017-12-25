@@ -2,7 +2,18 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
 
 -----
-* 12/22 Fri (, )
+* 12/24 Sun (4, 64)
+1. 20 [Valid Parentheses](https://github.com/abigcleverdog/LeetCode/blob/master/problems/20.md)
+2. 225 [Implement Stack using Queues](https://github.com/abigcleverdog/LeetCode/blob/master/problems/225.md)
+3. 67 [Add Binary](https://github.com/abigcleverdog/LeetCode/blob/master/problems/67.md)
+4. 507 [Perfect Number](https://github.com/abigcleverdog/LeetCode/blob/master/problems/507.md)
+
+-----
+* 12/23 Sat (1, 60)
+1. 438 [Find All Anagrams in a String](https://github.com/abigcleverdog/LeetCode/blob/master/problems/438.md)
+
+-----
+* 12/22 Fri (7, 59)
 1. 374 [Guess Number Higher or Lower](https://github.com/abigcleverdog/LeetCode/blob/master/problems/374.md)
 2. 38 [Guess Number Higher or Lower](https://github.com/abigcleverdog/LeetCode/blob/master/problems/38.md)
 3. 26 [Remove Duplicates from Sorted Array](https://github.com/abigcleverdog/LeetCode/blob/master/problems/26.md)
