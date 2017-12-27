@@ -2,6 +2,20 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
 
 -----
+* 12/26 Tue (5, 71)
+1. 203 [Remove Linked list Elements](https://github.com/abigcleverdog/LeetCode/blob/master/problems/203.md)
+2. 219 [Contains Duplicate II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/219.md)
+3. 680 [Valid Palindrome II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/680.md)
+4. 633 [Sum of Square Numbers](https://github.com/abigcleverdog/LeetCode/blob/master/problems/633.md)
+5. 88 [Merger Sorted Array](https://github.com/abigcleverdog/LeetCode/blob/master/problems/88.md)
+
+
+-----
+* 12/25 Mon, Merry Christmas (2, 66)
+1. 290 [Word Pattern](https://github.com/abigcleverdog/LeetCode/blob/master/problems/290.md)
+2. 234 [Palindrome Linked list](https://github.com/abigcleverdog/LeetCode/blob/master/problems/234.md)
+
+-----
 * 12/24 Sun (4, 64)
 1. 20 [Valid Parentheses](https://github.com/abigcleverdog/LeetCode/blob/master/problems/20.md)
 2. 225 [Implement Stack using Queues](https://github.com/abigcleverdog/LeetCode/blob/master/problems/225.md)
