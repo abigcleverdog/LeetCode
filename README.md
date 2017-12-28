@@ -2,6 +2,15 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
 
 -----
+* 12/27 Tue (6, 77)
+1. 58 [Length of Last Word](https://github.com/abigcleverdog/LeetCode/blob/master/problems/58.md)
+2. 14 [Longest Common Prefix](https://github.com/abigcleverdog/LeetCode/blob/master/problems/14.md)
+3. 303 [Range Sum Query - Immutable](https://github.com/abigcleverdog/LeetCode/blob/master/problems/303.md)
+4. 160 [Intersection of Two Linked Lists](https://github.com/abigcleverdog/LeetCode/blob/master/problems/160.md)
+5. 605 [Can Place Flowers](https://github.com/abigcleverdog/LeetCode/blob/master/problems/605.md)
+6. 400 [Nth Digit](https://github.com/abigcleverdog/LeetCode/blob/master/problems/400.md)
+
+-----
 * 12/26 Tue (5, 71)
 1. 203 [Remove Linked list Elements](https://github.com/abigcleverdog/LeetCode/blob/master/problems/203.md)
 2. 219 [Contains Duplicate II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/219.md)
