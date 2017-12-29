@@ -2,7 +2,20 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
 
 -----
-* 12/27 Tue (6, 77)
+* 12/28 Thu (10, 87)
+1. 155 [Min Stack](https://github.com/abigcleverdog/LeetCode/blob/master/problems/155.md)
+2. 475 [Heaters](https://github.com/abigcleverdog/LeetCode/blob/master/problems/475.md)
+3. 190 [Reverse Bits](https://github.com/abigcleverdog/LeetCode/blob/master/problems/190.md)
+4. 581 [Shortest Unsorted Continuous Subarray](https://github.com/abigcleverdog/LeetCode/blob/master/problems/581.md)
+5. 28 [Implement strStr()](https://github.com/abigcleverdog/LeetCode/blob/master/problems/28.md)
+6. 69 [Sqrt(x)](https://github.com/abigcleverdog/LeetCode/blob/master/problems/69.md)
+7. 532 [K-diff Pairs in an Array](https://github.com/abigcleverdog/LeetCode/blob/master/problems/532.md)
+8. 414 [Third Maximum Number](https://github.com/abigcleverdog/LeetCode/blob/master/problems/414.md)
+9. 168 [Excel Sheet Column Title](https://github.com/abigcleverdog/LeetCode/blob/master/problems/168.md)
+10. 125 [Valid Palindrome](https://github.com/abigcleverdog/LeetCode/blob/master/problems/125.md)
+
+-----
+* 12/27 Wed (6, 77)
 1. 58 [Length of Last Word](https://github.com/abigcleverdog/LeetCode/blob/master/problems/58.md)
 2. 14 [Longest Common Prefix](https://github.com/abigcleverdog/LeetCode/blob/master/problems/14.md)
 3. 303 [Range Sum Query - Immutable](https://github.com/abigcleverdog/LeetCode/blob/master/problems/303.md)
