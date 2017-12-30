@@ -2,6 +2,14 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
 
 -----
+* 12/29 Fri (5, 92)
+1. 204 [Count Primes](https://github.com/abigcleverdog/LeetCode/blob/master/problems/204.md)
+2. 278 [First Bad Version](https://github.com/abigcleverdog/LeetCode/blob/master/problems/278.md)
+3. 189 [Rotate Array](https://github.com/abigcleverdog/LeetCode/blob/master/problems/189.md)
+4. 479 [Largest Palindrome Product](https://github.com/abigcleverdog/LeetCode/blob/master/problems/479.md)
+5. 7 [Reverse Integer](https://github.com/abigcleverdog/LeetCode/blob/master/problems/7.md)
+
+-----
 * 12/28 Thu (10, 87)
 1. 155 [Min Stack](https://github.com/abigcleverdog/LeetCode/blob/master/problems/155.md)
 2. 475 [Heaters](https://github.com/abigcleverdog/LeetCode/blob/master/problems/475.md)
