@@ -2,6 +2,20 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
 
 -----
+* 12/31 Sun (5, 100)
+1. 537 [Complex Number Multiplication](https://github.com/abigcleverdog/LeetCode/blob/master/problems/537.md)
+2. 419 [Battleships in a Board](https://github.com/abigcleverdog/LeetCode/blob/master/problems/419.md)
+3. 338 [Counting Bits](https://github.com/abigcleverdog/LeetCode/blob/master/problems/338.md)
+4. 442 [Find All Duplicates in an Array](https://github.com/abigcleverdog/LeetCode/blob/master/problems/338.md)
+5. 406 [Queue Reconstruction by Height](https://github.com/abigcleverdog/LeetCode/blob/master/problems/406.md)
+
+-----
+* 12/30 Sat (3, 95)
+1. 665 [Non-decreasing Array](https://github.com/abigcleverdog/LeetCode/blob/master/problems/665.md)
+2. 535 [Encode and Decode TinyURL](https://github.com/abigcleverdog/LeetCode/blob/master/problems/535.md)
+3. 654 [Maximum Binary Tree](https://github.com/abigcleverdog/LeetCode/blob/master/problems/654.md)
+
+-----
 * 12/29 Fri (5, 92)
 1. 204 [Count Primes](https://github.com/abigcleverdog/LeetCode/blob/master/problems/204.md)
 2. 278 [First Bad Version](https://github.com/abigcleverdog/LeetCode/blob/master/problems/278.md)
