@@ -2,6 +2,15 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
 
 -----
+* 1/1 Mon Happy New Year (5, 105)
+1. 540 [Single Element in a Sorted Array](https://github.com/abigcleverdog/LeetCode/blob/master/problems/540.md)
+2. 647 [Palindrome Substrings](https://github.com/abigcleverdog/LeetCode/blob/master/problems/647.md)
+3. 515 [Find Largest Value in Each Tree Row](https://github.com/abigcleverdog/LeetCode/blob/master/problems/515.md)
+4. 748 [Shortest Completing Word](https://github.com/abigcleverdog/LeetCode/blob/master/problems/748.md)
+5. 413 [Arithmetic Slices](https://github.com/abigcleverdog/LeetCode/blob/master/problems/413.md)
+6. 526 [Beautiful Arrangement](https://github.com/abigcleverdog/LeetCode/blob/master/problems/526.md) -------Need help
+
+-----
 * 12/31 Sun (5, 100)
 1. 537 [Complex Number Multiplication](https://github.com/abigcleverdog/LeetCode/blob/master/problems/537.md)
 2. 419 [Battleships in a Board](https://github.com/abigcleverdog/LeetCode/blob/master/problems/419.md)
