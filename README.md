@@ -1,5 +1,23 @@
   # Overview
    Starting 12/06/2017, a diary for solving LeetCode problems.
+   
+-----
+* 1/3 Tue (5, 113)
+1. 712 [Minimum ASCII Delete Sum for Two Strings](https://github.com/abigcleverdog/LeetCode/blob/master/problems/712.md)
+   
+-----
+* 1/3 Tue (5, 113)
+1. 609 [Find Duplicate File in System](https://github.com/abigcleverdog/LeetCode/blob/master/problems/609.md)
+2. 677 [Map Sum Pairs](https://github.com/abigcleverdog/LeetCode/blob/master/problems/677.md)
+3. 462 [Minimum Moves to Equal Array Elements II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/462.md)
+4. 495 [Teemo Attacking](https://github.com/abigcleverdog/LeetCode/blob/master/problems/495.md)
+5. 667 [Beautiful Arrangement II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/667.md)
+
+-----
+* 1/2 Tue (3, 108)
+1. 526 [Beautiful Arrangement](https://github.com/abigcleverdog/LeetCode/blob/master/problems/526.md)
+2. 739 [Daily Temperatures](https://github.com/abigcleverdog/LeetCode/blob/master/problems/739.md)
+3. 260 [Single Number III](https://github.com/abigcleverdog/LeetCode/blob/master/problems/260.md)
 
 -----
 * 1/1 Mon Happy New Year (5, 105)
@@ -8,7 +26,7 @@
 3. 515 [Find Largest Value in Each Tree Row](https://github.com/abigcleverdog/LeetCode/blob/master/problems/515.md)
 4. 748 [Shortest Completing Word](https://github.com/abigcleverdog/LeetCode/blob/master/problems/748.md)
 5. 413 [Arithmetic Slices](https://github.com/abigcleverdog/LeetCode/blob/master/problems/413.md)
-6. 526 [Beautiful Arrangement](https://github.com/abigcleverdog/LeetCode/blob/master/problems/526.md) -------Need help
+6. 526 [Beautiful Arrangement](https://github.com/abigcleverdog/LeetCode/blob/master/problems/526.md) 
 
 -----
 * 12/31 Sun (5, 100)
