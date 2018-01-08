@@ -1,12 +1,19 @@
   # Overview
    Starting 12/06/2017, a diary for solving LeetCode problems.
+
    
 -----
-* 1/3 Tue (5, 113)
+* 1/7 Sun (5, 113)
+1. 451 [Sort Characters By Frequency](https://github.com/abigcleverdog/LeetCode/blob/master/problems/451.md)
+2. 238 [Product of Array Except Self](https://github.com/abigcleverdog/LeetCode/blob/master/problems/238.md)
+3. 676 [Implement Magic Dictionary](https://github.com/abigcleverdog/LeetCode/blob/master/problems/676.md)
+   
+-----
+* 1/4 Thu (1, 114)
 1. 712 [Minimum ASCII Delete Sum for Two Strings](https://github.com/abigcleverdog/LeetCode/blob/master/problems/712.md)
    
 -----
-* 1/3 Tue (5, 113)
+* 1/3 Wed (5, 113)
 1. 609 [Find Duplicate File in System](https://github.com/abigcleverdog/LeetCode/blob/master/problems/609.md)
 2. 677 [Map Sum Pairs](https://github.com/abigcleverdog/LeetCode/blob/master/problems/677.md)
 3. 462 [Minimum Moves to Equal Array Elements II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/462.md)
