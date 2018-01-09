@@ -1,9 +1,14 @@
   # Overview
    Starting 12/06/2017, a diary for solving LeetCode problems.
-
    
 -----
-* 1/7 Sun (5, 113)
+* 1/8 Mon (3, 120)
+1. 529 [Minesweeper](https://github.com/abigcleverdog/LeetCode/blob/master/problems/529.md)
+2. 565 [Array Nesting](https://github.com/abigcleverdog/LeetCode/blob/master/problems/565.md)
+3. 655 [Print Binary Tree](https://github.com/abigcleverdog/LeetCode/blob/master/problems/655.md)
+   
+-----
+* 1/7 Sun (3, 117)
 1. 451 [Sort Characters By Frequency](https://github.com/abigcleverdog/LeetCode/blob/master/problems/451.md)
 2. 238 [Product of Array Except Self](https://github.com/abigcleverdog/LeetCode/blob/master/problems/238.md)
 3. 676 [Implement Magic Dictionary](https://github.com/abigcleverdog/LeetCode/blob/master/problems/676.md)
