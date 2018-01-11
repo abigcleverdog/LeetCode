@@ -2,6 +2,18 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
    
 -----
+* 1/10 Wed (3, 126)
+1. 725 [Split Linked List in Parts](https://github.com/abigcleverdog/LeetCode/blob/master/problems/725.md)
+2. 94 [Binary Tree Inorder Traversal](https://github.com/abigcleverdog/LeetCode/blob/master/problems/94.md)
+3. 477 [Total Hamming Distance](https://github.com/abigcleverdog/LeetCode/blob/master/problems/477.md)
+   
+-----
+* 1/9 Tue (3, 123)
+1. 547 [Friend Circles](https://github.com/abigcleverdog/LeetCode/blob/master/problems/547.md)
+2. 347 [Top K Frequent Elements](https://github.com/abigcleverdog/LeetCode/blob/master/problems/347.md)
+3. 672 [Bulb Switcher II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/672.md)
+   
+-----
 * 1/8 Mon (3, 120)
 1. 529 [Minesweeper](https://github.com/abigcleverdog/LeetCode/blob/master/problems/529.md)
 2. 565 [Array Nesting](https://github.com/abigcleverdog/LeetCode/blob/master/problems/565.md)
