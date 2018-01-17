@@ -1,5 +1,27 @@
   # Overview
    Starting 12/06/2017, a diary for solving LeetCode problems.
+
+-----
+* 1/16 Tue (1, 133) ***** strategy change, focus on the 1-400 for now
+1. 22 [Generate Parentheses](https://github.com/abigcleverdog/LeetCode/blob/master/problems/22.md)
+2. 2 [Add Two Numbers](https://github.com/abigcleverdog/LeetCode/blob/master/problems/2.md)
+3. 3 [Longest Substring Without Repeating Characters](https://github.com/abigcleverdog/LeetCode/blob/master/problems/3.md)
+
+-----
+* 1/15 Mon (1, 133)
+1. 384 [Shuffle an Array](https://github.com/abigcleverdog/LeetCode/blob/master/problems/384.md)
+  
+-----
+* 1/12 Fri (1, 132)
+1. 421 [Maximum XOR of Two Numbers in an Array](https://github.com/abigcleverdog/LeetCode/blob/master/problems/421.md)
+   
+-----
+* 1/11 Thu (5, 131)
+1. 503 [Next Greater Element II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/503.md)
+2. 454 [4Sum II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/454.md)
+3. 648 [Replace Words](https://github.com/abigcleverdog/LeetCode/blob/master/problems/648.md)
+4. 646 [Maximum Length of Pair Chain](https://github.com/abigcleverdog/LeetCode/blob/master/problems/646.md)
+5. 382 [Linked List Random Node](https://github.com/abigcleverdog/LeetCode/blob/master/problems/382.md)
    
 -----
 * 1/10 Wed (3, 126)
