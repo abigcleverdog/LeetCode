@@ -2,7 +2,18 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
 
 -----
-* 1/16 Tue (1, 133) ***** strategy change, focus on the 1-400 for now
+* 1/18 Thu (3, 140) ***** 
+1. 5 [Longest Palindromic Substring](https://github.com/abigcleverdog/LeetCode/blob/master/problems/5.md)
+2. 6 [ZigZag Conversion](https://github.com/abigcleverdog/LeetCode/blob/master/problems/6.md)
+3. 8 [String to Integer (atoi)](https://github.com/abigcleverdog/LeetCode/blob/master/problems/8.md)
+4. 10 [Regular Expression Matching](https://github.com/abigcleverdog/LeetCode/blob/master/problems/10.md)
+
+-----
+* 1/17 Wed (1, 137) ***** 
+1. 4 [Median of Two Sorted Arrays](https://github.com/abigcleverdog/LeetCode/blob/master/problems/4.md)
+
+-----
+* 1/16 Tue (3, 136) ***** strategy change, focus on the 1-400 for now
 1. 22 [Generate Parentheses](https://github.com/abigcleverdog/LeetCode/blob/master/problems/22.md)
 2. 2 [Add Two Numbers](https://github.com/abigcleverdog/LeetCode/blob/master/problems/2.md)
 3. 3 [Longest Substring Without Repeating Characters](https://github.com/abigcleverdog/LeetCode/blob/master/problems/3.md)
