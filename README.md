@@ -2,6 +2,13 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
 
 -----
+* 1/19 Fri (3, 140) ***** 
+1. 11 [Container With Most Water](https://github.com/abigcleverdog/LeetCode/blob/master/problems/11.md)
+2. 12 [Integer to Roman](https://github.com/abigcleverdog/LeetCode/blob/master/problems/12.md)
+3. 15 [3Sum](https://github.com/abigcleverdog/LeetCode/blob/master/problems/15.md)
+4. 16 [3Sum Closest](https://github.com/abigcleverdog/LeetCode/blob/master/problems/16.md)
+
+-----
 * 1/18 Thu (3, 140) ***** 
 1. 5 [Longest Palindromic Substring](https://github.com/abigcleverdog/LeetCode/blob/master/problems/5.md)
 2. 6 [ZigZag Conversion](https://github.com/abigcleverdog/LeetCode/blob/master/problems/6.md)
