@@ -2,7 +2,14 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
 
 -----
-* 1/19 Fri (3, 140) ***** 
+* 1/20 Sat (4, 149) ***** 
+1. 17 [Letter Combinations of a Phone Number](https://github.com/abigcleverdog/LeetCode/blob/master/problems/17.md)
+2. 18 [4Sum](https://github.com/abigcleverdog/LeetCode/blob/master/problems/18.md)
+3. 19 [Remove Nth Node From End of List](https://github.com/abigcleverdog/LeetCode/blob/master/problems/19.md)
+4. 23 [Merge k Sorted Lists](https://github.com/abigcleverdog/LeetCode/blob/master/problems/23.md) ---first self conquered Hard, Whooray!
+
+-----
+* 1/19 Fri (5, 145) ***** 
 1. 11 [Container With Most Water](https://github.com/abigcleverdog/LeetCode/blob/master/problems/11.md)
 2. 12 [Integer to Roman](https://github.com/abigcleverdog/LeetCode/blob/master/problems/12.md)
 3. 15 [3Sum](https://github.com/abigcleverdog/LeetCode/blob/master/problems/15.md)
