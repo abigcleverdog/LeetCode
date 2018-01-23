@@ -2,6 +2,17 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
 
 -----
+* 1/22 Mon (2, 154) ***** 
+1. 31 [Next Pemutation](https://github.com/abigcleverdog/LeetCode/blob/master/problems/31.md)
+
+-----
+* 1/21 Sun (3, 152) ***** 
+1. 24 [Swap Nodes in Pairs](https://github.com/abigcleverdog/LeetCode/blob/master/problems/24.md)
+2. 25 [Reverse Nodes in k-Group](https://github.com/abigcleverdog/LeetCode/blob/master/problems/25.md)
+3. 29 [Divide Two Integers](https://github.com/abigcleverdog/LeetCode/blob/master/problems/29.md)
+4. 30 [Substring with Concatenation of All Words](https://github.com/abigcleverdog/LeetCode/blob/master/problems/30.md)
+
+-----
 * 1/20 Sat (4, 149) ***** 
 1. 17 [Letter Combinations of a Phone Number](https://github.com/abigcleverdog/LeetCode/blob/master/problems/17.md)
 2. 18 [4Sum](https://github.com/abigcleverdog/LeetCode/blob/master/problems/18.md)
