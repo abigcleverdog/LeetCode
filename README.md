@@ -2,6 +2,26 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
 
 -----
+* 1/26 Fri (3, 162) ***** 
+1. 40 [Combination Sum II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/40.md)
+2. 41 [First Missing Positive](https://github.com/abigcleverdog/LeetCode/blob/master/problems/41.md)
+3. 42 [Trapping Rain Water](https://github.com/abigcleverdog/LeetCode/blob/master/problems/42.md)
+
+-----
+* 1/25 Thu (1, 159) ***** 
+1. 39 [Combination Sum](https://github.com/abigcleverdog/LeetCode/blob/master/problems/39.md)
+
+-----
+* 1/24 Thu (1, 158) ***** 
+1. 37 [Sudoku Solver](https://github.com/abigcleverdog/LeetCode/blob/master/problems/37.md)
+   
+-----
+* 1/23 Tue (3, 157) ***** 
+1. 32 [Longest Valid Parentheses](https://github.com/abigcleverdog/LeetCode/blob/master/problems/32.md)
+2. 33 [Search in Rotated Sorted Array](https://github.com/abigcleverdog/LeetCode/blob/master/problems/33.md)
+3. 34 [Search for a Range](https://github.com/abigcleverdog/LeetCode/blob/master/problems/34.md)
+
+-----
 * 1/22 Mon (2, 154) ***** 
 1. 31 [Next Pemutation](https://github.com/abigcleverdog/LeetCode/blob/master/problems/31.md)
 
