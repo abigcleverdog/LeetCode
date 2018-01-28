@@ -2,6 +2,14 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
 
 -----
+* 1/27 Fri (3, 162) ***** 
+1. 43 [Multiply Strings](https://github.com/abigcleverdog/LeetCode/blob/master/problems/43.md)
+2. 44 [Wildcard Matching](https://github.com/abigcleverdog/LeetCode/blob/master/problems/44.md)
+3. 45 [Jump Game II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/45.md)
+4. 46 [Pemutations](https://github.com/abigcleverdog/LeetCode/blob/master/problems/46.md)
+5. 47 [Pemutations II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/47.md)
+
+-----
 * 1/26 Fri (3, 162) ***** 
 1. 40 [Combination Sum II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/40.md)
 2. 41 [First Missing Positive](https://github.com/abigcleverdog/LeetCode/blob/master/problems/41.md)
