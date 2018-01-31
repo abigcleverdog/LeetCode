@@ -1,8 +1,23 @@
   # Overview
    Starting 12/06/2017, a diary for solving LeetCode problems.
+   
+-----
+* 1/30 Tue (1, 173) ***** 
+1. 54 [Spiral Matrix](https://github.com/abigcleverdog/LeetCode/blob/master/problems/54.md)
+   
+-----
+* 1/29 Mon (1, 172) ***** 
+1. 52 [N-Queens II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/52.md)
 
 -----
-* 1/27 Fri (3, 162) ***** 
+* 1/28 Sun (4, 171) ***** 
+1. 48 [Rotate Image](https://github.com/abigcleverdog/LeetCode/blob/master/problems/48.md)
+2. 49 [Group Anagrams](https://github.com/abigcleverdog/LeetCode/blob/master/problems/49.md)
+3. 50 [Pow(x, n)](https://github.com/abigcleverdog/LeetCode/blob/master/problems/50.md)
+4. 51 [N-Queens](https://github.com/abigcleverdog/LeetCode/blob/master/problems/51.md)
+
+-----
+* 1/27 Sat (5, 167) ***** 
 1. 43 [Multiply Strings](https://github.com/abigcleverdog/LeetCode/blob/master/problems/43.md)
 2. 44 [Wildcard Matching](https://github.com/abigcleverdog/LeetCode/blob/master/problems/44.md)
 3. 45 [Jump Game II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/45.md)
