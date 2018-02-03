@@ -2,6 +2,24 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
    
 -----
+* 2/2 Fri (2, 177) ***** 
+1. 60 [Insert Interval](https://github.com/abigcleverdog/LeetCode/blob/master/problems/60.md)
+2. 61 [Rotate List](https://github.com/abigcleverdog/LeetCode/blob/master/problems/61.md)
+3. 62 [Unique Paths](https://github.com/abigcleverdog/LeetCode/blob/master/problems/62.md)
+4. 63 [Unique Paths II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/63.md)
+5. 64 [Minimum Path Sum](https://github.com/abigcleverdog/LeetCode/blob/master/problems/64.md)
+   
+-----
+* 2/1 Thu (2, 177) ***** 
+1. 57 [Insert Interval](https://github.com/abigcleverdog/LeetCode/blob/master/problems/57.md)
+2. 59 [Spiral Matrix II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/59.md)
+   
+-----
+* 1/31 Wed (2, 175) ***** 
+1. 55 [Jump Game](https://github.com/abigcleverdog/LeetCode/blob/master/problems/55.md)
+2. 56 [Merge Intervals](https://github.com/abigcleverdog/LeetCode/blob/master/problems/56.md)
+   
+-----
 * 1/30 Tue (1, 173) ***** 
 1. 54 [Spiral Matrix](https://github.com/abigcleverdog/LeetCode/blob/master/problems/54.md)
    
