@@ -2,7 +2,32 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
    
 -----
-* 2/2 Fri (2, 177) ***** 
+* 2/7  (2, 191) ***** 
+1. 76 [Combinations](https://github.com/abigcleverdog/LeetCode/blob/master/problems/76.md)
+2. 78 [Subsets](https://github.com/abigcleverdog/LeetCode/blob/master/problems/78.md)
+   
+-----
+* 2/6  (1, 189) ***** 
+1. 77 [Combinations](https://github.com/abigcleverdog/LeetCode/blob/master/problems/77.md)
+   
+-----
+* 2/5  (2, 188) ***** 
+1. 74 [Search a 2D Matrix](https://github.com/abigcleverdog/LeetCode/blob/master/problems/74.md)
+2. 75 [Sort Colors](https://github.com/abigcleverdog/LeetCode/blob/master/problems/75.md)
+3. 76 [Minimum Window Substring](https://github.com/abigcleverdog/LeetCode/blob/master/problems/76.md)  --- not done
+   
+-----
+* 2/4  (3, 186) ***** 
+1. 71 [Simplify Path](https://github.com/abigcleverdog/LeetCode/blob/master/problems/71.md)
+2. 72 [Edit Distance](https://github.com/abigcleverdog/LeetCode/blob/master/problems/72.md)
+3. 73 [Set Matrix Zeroes](https://github.com/abigcleverdog/LeetCode/blob/master/problems/73.md)
+   
+-----
+* 2/3  (1, 183) ***** 
+1. 68 [Text Justification](https://github.com/abigcleverdog/LeetCode/blob/master/problems/68.md)
+   
+-----
+* 2/2 Fri (5, 182) ***** 
 1. 60 [Insert Interval](https://github.com/abigcleverdog/LeetCode/blob/master/problems/60.md)
 2. 61 [Rotate List](https://github.com/abigcleverdog/LeetCode/blob/master/problems/61.md)
 3. 62 [Unique Paths](https://github.com/abigcleverdog/LeetCode/blob/master/problems/62.md)
