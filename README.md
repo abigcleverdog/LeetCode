@@ -3,7 +3,16 @@
    
 -----
 * 2/18  (1, 206) ***** 
+skip 105, 106
 1. 97 [Interleaving String](https://github.com/abigcleverdog/LeetCode/blob/master/problems/97.md)
+2. 98 [Validate Binary Search Tree](https://github.com/abigcleverdog/LeetCode/blob/master/problems/98.md)
+3. 99 [Recover Binary Search Tree](https://github.com/abigcleverdog/LeetCode/blob/master/problems/99.md)
+4. 102 [Binary Tree Level Order Traversal](https://github.com/abigcleverdog/LeetCode/blob/master/problems/102.md)
+5. 103 [Binary Tree ZigZag Level Order Traversal](https://github.com/abigcleverdog/LeetCode/blob/master/problems/103.md)
+6. 105 [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/abigcleverdog/LeetCode/blob/master/problems/105.md) -- not done
+7. 109 [Convert Sorted List to Binary Search Tree](https://github.com/abigcleverdog/LeetCode/blob/master/problems/109.md)
+8. 113 [Path Sum II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/113.md)
+9. 114 [Flatten Binary Tree to Linked List](https://github.com/abigcleverdog/LeetCode/blob/master/problems/114.md)
       
 -----
 * 2/17  (1, 206) ***** 
