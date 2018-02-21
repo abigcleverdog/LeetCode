@@ -2,7 +2,28 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
    
 -----
-* 2/18  (1, 206) ***** 
+* 2/20  (6, 226) *****
+1. 123 [Best Time to Buy and Sell Stock III](https://github.com/abigcleverdog/LeetCode/blob/master/problems/123.md)
+2. 124 [Binary Tree Maximum Path Sum](https://github.com/abigcleverdog/LeetCode/blob/master/problems/124.md)
+3. 126 [Word Ladder II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/126.md) -- not accepted
+4. 128 [Longest Consecutive Sequence](https://github.com/abigcleverdog/LeetCode/blob/master/problems/128.md)
+5. 129 [Sum Root to Leaf Numbers](https://github.com/abigcleverdog/LeetCode/blob/master/problems/129.md)
+6. 130 [Surrounded Regions](https://github.com/abigcleverdog/LeetCode/blob/master/problems/130.md)
+7. 131 [Palindrome Partitioning](https://github.com/abigcleverdog/LeetCode/blob/master/problems/131.md)
+   
+-----
+* 2/19  (6, 220) ***** 
+1. 105 [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/abigcleverdog/LeetCode/blob/master/problems/105.md)
+2. 106 [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/abigcleverdog/LeetCode/blob/master/problems/106.md)
+3. 115 [Distinct Subsequences](https://github.com/abigcleverdog/LeetCode/blob/master/problems/115.md)
+4. 117 [Populating Next Right Pointers in Each Node II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/117.md)
+5. 120 [Triangle](https://github.com/abigcleverdog/LeetCode/blob/master/problems/120.md)
+6. 123 [Best Time to Buy and Sell Stock III](https://github.com/abigcleverdog/LeetCode/blob/master/problems/123.md) -- not done
+7. 127 [Word Ladder](https://github.com/abigcleverdog/LeetCode/blob/master/problems/127.md)
+
+   
+-----
+* 2/18  (8, 214) ***** 
 skip 105, 106
 1. 97 [Interleaving String](https://github.com/abigcleverdog/LeetCode/blob/master/problems/97.md)
 2. 98 [Validate Binary Search Tree](https://github.com/abigcleverdog/LeetCode/blob/master/problems/98.md)
