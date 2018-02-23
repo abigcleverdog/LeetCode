@@ -1,5 +1,10 @@
   # Overview
    Starting 12/06/2017, a diary for solving LeetCode problems.
+-----
+* 2/22  (3, 234) *****
+1. 137 [Single Number II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/137.md)
+2. 139 [Word Break](https://github.com/abigcleverdog/LeetCode/blob/master/problems/139.md)
+3. 140 [Word Break II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/140.md)
    
 -----
 * 2/21  (5, 231) *****
