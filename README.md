@@ -2,6 +2,17 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
    
 -----
+* 2/26  (8, 253) *****
+1. 153 [Find Minimum in Rotated Sorted Array](https://github.com/abigcleverdog/LeetCode/blob/master/problems/153.md)
+2. 154 [Find Minimum in Rotated Sorted Array II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/154.md)
+3. 162 [Find Peak Element](https://github.com/abigcleverdog/LeetCode/blob/master/problems/162.md)
+4. 164 [Maximum Gap](https://github.com/abigcleverdog/LeetCode/blob/master/problems/164.md)
+5. 165 [Compare Version Numbers](https://github.com/abigcleverdog/LeetCode/blob/master/problems/165.md)
+6. 166 [Fraction to Recurring Decimal](https://github.com/abigcleverdog/LeetCode/blob/master/problems/166.md)
+7. 173 [Binary Search Trea Iterator](https://github.com/abigcleverdog/LeetCode/blob/master/problems/173.md)
+8. 174 [Dungeon Game](https://github.com/abigcleverdog/LeetCode/blob/master/problems/174.md)
+   
+-----
 * 2/25  (3, 245) *****
 1. 150 [Evaluate Reverse Polish Notation](https://github.com/abigcleverdog/LeetCode/blob/master/problems/150.md)
 2. 151 [Reverse Words in a String](https://github.com/abigcleverdog/LeetCode/blob/master/problems/151.md)
