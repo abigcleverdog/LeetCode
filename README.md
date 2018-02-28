@@ -2,6 +2,18 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
    
 -----
+* 2/27  (8, 261) *****
+1. 179 [Largest Number](https://github.com/abigcleverdog/LeetCode/blob/master/problems/179.md)
+2. 187 [Repeated DNA Sequences](https://github.com/abigcleverdog/LeetCode/blob/master/problems/187.md)
+3. 188 [Best Time to Buy and Sell Stock IV](https://github.com/abigcleverdog/LeetCode/blob/master/problems/188.md) -- not done
+4. 199 [Binary Tree Right Side View](https://github.com/abigcleverdog/LeetCode/blob/master/problems/199.md)
+5. 200 [Number of Islands](https://github.com/abigcleverdog/LeetCode/blob/master/problems/200.md)
+6. 201 [Bitwise AND of Numbers Range](https://github.com/abigcleverdog/LeetCode/blob/master/problems/201.md)
+7. 207 [Course Schedule](https://github.com/abigcleverdog/LeetCode/blob/master/problems/207.md)
+8. 208 [Implement Trie (Prefix Tree)](https://github.com/abigcleverdog/LeetCode/blob/master/problems/208.md)
+9. 209 [Minimum Size Subarray Sum](https://github.com/abigcleverdog/LeetCode/blob/master/problems/209.md)
+   
+-----
 * 2/26  (8, 253) *****
 1. 153 [Find Minimum in Rotated Sorted Array](https://github.com/abigcleverdog/LeetCode/blob/master/problems/153.md)
 2. 154 [Find Minimum in Rotated Sorted Array II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/154.md)
