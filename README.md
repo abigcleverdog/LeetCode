@@ -1,5 +1,26 @@
   # Overview
    Starting 12/06/2017, a diary for solving LeetCode problems.
+   2018/1/16 strategy change, focus on the 1-400; round 1
+   
+   
+-----
+* 3/2  (6, 274) *****
+1. 220 [Contains Duplicate III](https://github.com/abigcleverdog/LeetCode/blob/master/problems/220.md)   
+2. 221 [Maximal Square](https://github.com/abigcleverdog/LeetCode/blob/master/problems/221.md) 
+3. 222 [Count Complete Tree Nodes](https://github.com/abigcleverdog/LeetCode/blob/master/problems/222.md) 
+4. 223 [Rectangle Area](https://github.com/abigcleverdog/LeetCode/blob/master/problems/223.md) 
+5. 224 [Basic Calculator](https://github.com/abigcleverdog/LeetCode/blob/master/problems/224.md) 
+6. 227 [Basic Calculator II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/227.md) 
+
+   
+-----
+* 3/1  (5, 268) *****
+1. 212 [Word Search II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/212.md)   
+2. 213 [House Robber II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/213.md)   
+3. 214 [Shortest Palindrome](https://github.com/abigcleverdog/LeetCode/blob/master/problems/214.md)  
+4. 215 [Kth Largest Element in an Array](https://github.com/abigcleverdog/LeetCode/blob/master/problems/215.md) 
+5. 216 [Combination Sum III](https://github.com/abigcleverdog/LeetCode/blob/master/problems/216.md) 
+6. 218 [The Skyline Problem](https://github.com/abigcleverdog/LeetCode/blob/master/problems/218.md) --not done
    
 -----
 * 2/28  (2, 263) *****
