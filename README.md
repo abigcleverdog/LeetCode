@@ -4,6 +4,19 @@
    
    
 -----
+* 3/4  (3, 277) *****
+1. 228 [Contains Duplicate III](https://github.com/abigcleverdog/LeetCode/blob/master/problems/228.md)   
+2. 229 [Majority Element II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/229.md)
+3. 230 [Kth Smallest Element in a BST](https://github.com/abigcleverdog/LeetCode/blob/master/problems/230.md)
+4. 233 [Number of Digit One](https://github.com/abigcleverdog/LeetCode/blob/master/problems/233.md) --- not done
+
+
+* 3/3
+Rank	Name	Score	Finish Time 	Q1 (7)	Q2 (7)	Q3 (7)	Q4 (7)
+490 / 2674	abigcleverdog 	14	1:25:34	 0:29:17  1	 1:10:34  2		
+huge room for improvement...
+   
+-----
 * 3/2  (6, 274) *****
 1. 220 [Contains Duplicate III](https://github.com/abigcleverdog/LeetCode/blob/master/problems/220.md)   
 2. 221 [Maximal Square](https://github.com/abigcleverdog/LeetCode/blob/master/problems/221.md) 
