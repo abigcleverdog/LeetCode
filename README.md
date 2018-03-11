@@ -4,6 +4,13 @@
    
    
 -----
+* 3/10  (1, 283) *****
+1. 274 [H-Index](https://github.com/abigcleverdog/LeetCode/blob/master/problems/274.md)
+
+Rank	Name	Score	Finish Time 	Q1 (3)	Q2 (5)	Q3 (7)	Q4 (7)
+516 / 2830	abigcleverdog 	8	0:16:06	 0:05:01	 0:16:06		
+
+-----
 * 3/9  (1, 282) *****
 1. 264 [Ugly Number II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/264.md)
    
