@@ -4,6 +4,14 @@
    
    
 -----
+* 3/12  (1, 285) *****
+1. 279 [Perfect Squares](https://github.com/abigcleverdog/LeetCode/blob/master/problems/279.md)
+   
+-----
+* 3/12  (1, 284) *****
+1. 275 [H-Index II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/275.md)
+   
+-----
 * 3/10  (1, 283) *****
 1. 274 [H-Index](https://github.com/abigcleverdog/LeetCode/blob/master/problems/274.md)
 
