@@ -4,7 +4,11 @@
    
    
 -----
-* 3/12  (1, 285) *****
+* 3/14  (1, 286) *****
+1. 282 [Expression Add Operators](https://github.com/abigcleverdog/LeetCode/blob/master/problems/282.md)
+   
+-----
+* 3/13  (1, 285) *****
 1. 279 [Perfect Squares](https://github.com/abigcleverdog/LeetCode/blob/master/problems/279.md)
    
 -----
