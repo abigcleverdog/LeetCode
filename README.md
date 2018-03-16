@@ -2,6 +2,20 @@
    Starting 12/06/2017, a diary for solving LeetCode problems.
    2018/1/16 strategy change, focus on the 1-400; round 1
    
+-----
+* 3/16  (1, 286) *****
+1. 297 [Serialize and Deserialize Binary Tree](https://github.com/abigcleverdog/LeetCode/blob/master/problems/297.md)
+   
+-----
+* 3/15  (4, 290) *****
+1. 284 [Peeking Iterator](https://github.com/abigcleverdog/LeetCode/blob/master/problems/284.md)
+2. 287 [Find the Duplicate Number](https://github.com/abigcleverdog/LeetCode/blob/master/problems/287.md)
+3. 289 [Game of Life](https://github.com/abigcleverdog/LeetCode/blob/master/problems/289.md)
+4. 295 [Find Median from Data Stream](https://github.com/abigcleverdog/LeetCode/blob/master/problems/295.md)
+   
+-----
+* 3/15  (0, 286) *****
+1. 284 [Peeking Iterator](https://github.com/abigcleverdog/LeetCode/blob/master/problems/284.md)
    
 -----
 * 3/14  (1, 286) *****
