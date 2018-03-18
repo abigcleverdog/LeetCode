@@ -1,10 +1,22 @@
   # Overview
    Starting 12/06/2017, a diary for solving LeetCode problems.
    2018/1/16 strategy change, focus on the 1-400; round 1
+
    
 -----
-* 3/16  (1, 286) *****
+* 3/17  (3, 297) *****
+1. 304 [Range Sum Query 2D - Immutable](https://github.com/abigcleverdog/LeetCode/blob/master/problems/304.md)
+2. 306 [Additive Number](https://github.com/abigcleverdog/LeetCode/blob/master/problems/306.md)
+3. 307 [Range Sum Query - Mutable](https://github.com/abigcleverdog/LeetCode/blob/master/problems/307.md) -- not done
+Rank	Name	Score	Finish Time 	Q1 (4)	Q2 (6)	Q3 (7)	Q4 (11)
+414 / 2849	abigcleverdog 	4	0:29:40	 0:24:40  1			
+   
+-----
+* 3/16  (4, 294) *****
 1. 297 [Serialize and Deserialize Binary Tree](https://github.com/abigcleverdog/LeetCode/blob/master/problems/297.md)
+2. 299 [Bulls and Cows](https://github.com/abigcleverdog/LeetCode/blob/master/problems/299.md)
+3. 300 [Longest Increasing Subsequence](https://github.com/abigcleverdog/LeetCode/blob/master/problems/300.md)
+4. 301 [Remove Invalid Parentheses](https://github.com/abigcleverdog/LeetCode/blob/master/problems/301.md)
    
 -----
 * 3/15  (4, 290) *****
