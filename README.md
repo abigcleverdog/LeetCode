@@ -1,10 +1,20 @@
   # Overview
    Starting 12/06/2017, a diary for solving LeetCode problems.
    2018/1/16 strategy change, focus on the 1-400; round 1
+   
+| LC contests   | Week          | rank	 | result	  |
+| :-----------: |:-------------:| ------:| ---------: |
+| 3      		| 3/17/2018		| 414    | 1/4; 4/28  |
+| 2      		| 3/10/2018		| 516    | 2/4; 8/22  |
+| 1      		| 3/03/2018		| 490    | 2/4; 14/28 |
 
+
+-----
+* 3/18  (1, 296) *****
+1. 309 [Best Time to Buy and Sell Stock with Cooldown](https://github.com/abigcleverdog/LeetCode/blob/master/problems/309.md) -- not done
    
 -----
-* 3/17  (3, 297) *****
+* 3/17  (3, 296) *****
 1. 304 [Range Sum Query 2D - Immutable](https://github.com/abigcleverdog/LeetCode/blob/master/problems/304.md)
 2. 306 [Additive Number](https://github.com/abigcleverdog/LeetCode/blob/master/problems/306.md)
 3. 307 [Range Sum Query - Mutable](https://github.com/abigcleverdog/LeetCode/blob/master/problems/307.md) -- not done
