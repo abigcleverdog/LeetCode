@@ -10,6 +10,16 @@
 
 
 -----
+* 3/20  (1, 298) *****
+1. 312 [Burst Balloons](https://github.com/abigcleverdog/LeetCode/blob/master/problems/312.md) -- not done
+2. 313 [Super Ugly Number](https://github.com/abigcleverdog/LeetCode/blob/master/problems/313.md)
+3. 315 [Count of Smaller numbers After Self](https://github.com/abigcleverdog/LeetCode/blob/master/problems/315.md) -- not done
+
+-----
+* 3/19  (1, 297) *****
+1. 310 [Minimum Height Trees](https://github.com/abigcleverdog/LeetCode/blob/master/problems/310.md)
+
+-----
 * 3/18  (1, 296) *****
 1. 309 [Best Time to Buy and Sell Stock with Cooldown](https://github.com/abigcleverdog/LeetCode/blob/master/problems/309.md) -- not done
    
