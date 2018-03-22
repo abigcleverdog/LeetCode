@@ -10,6 +10,15 @@
 
 
 -----
+* 3/21  (4, 302) *****
+1. 316 [Remove Duplicate Letters](https://github.com/abigcleverdog/LeetCode/blob/master/problems/316.md) -- not done
+2. 318 [Maximum Product of Word Lengths](https://github.com/abigcleverdog/LeetCode/blob/master/problems/318.md)
+3. 319 [Bulb Switcher](https://github.com/abigcleverdog/LeetCode/blob/master/problems/319.md)
+4. 321 [Create Maximum Number](https://github.com/abigcleverdog/LeetCode/blob/master/problems/321.md) -- not done
+5. 322 [Coin Change](https://github.com/abigcleverdog/LeetCode/blob/master/problems/322.md)
+6. 324 [Wiggle Sort II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/324.md)
+
+-----
 * 3/20  (1, 298) *****
 1. 312 [Burst Balloons](https://github.com/abigcleverdog/LeetCode/blob/master/problems/312.md) -- not done
 2. 313 [Super Ugly Number](https://github.com/abigcleverdog/LeetCode/blob/master/problems/313.md)
