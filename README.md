@@ -10,6 +10,13 @@
 
 
 -----
+* 3/22  (3, 305) *****
+1. 327 [Count Range Sum](https://github.com/abigcleverdog/LeetCode/blob/master/problems/327.md) -- not done
+2. 328 [Odd Even Linked List](https://github.com/abigcleverdog/LeetCode/blob/master/problems/328.md) 
+3. 329 [Longest Increasing Path in a Matrix](https://github.com/abigcleverdog/LeetCode/blob/master/problems/329.md) 
+4. 330 [Patching Array](https://github.com/abigcleverdog/LeetCode/blob/master/problems/330.md) 
+
+-----
 * 3/21  (4, 302) *****
 1. 316 [Remove Duplicate Letters](https://github.com/abigcleverdog/LeetCode/blob/master/problems/316.md) -- not done
 2. 318 [Maximum Product of Word Lengths](https://github.com/abigcleverdog/LeetCode/blob/master/problems/318.md)
