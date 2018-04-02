@@ -4,10 +4,27 @@
    
 | LC contests   | Week          | rank	 | result	  |
 | :-----------: |:-------------:| ------:| ---------: |
+| 5      		| 3/31/2018		| 894    | 1/4; 5/26  |
+| 4      		| 3/24/2018		| 460    | 3/4; 13/22 |
 | 3      		| 3/17/2018		| 414    | 1/4; 4/28  |
 | 2      		| 3/10/2018		| 516    | 2/4; 8/22  |
 | 1      		| 3/03/2018		| 490    | 2/4; 14/28 |
 
+-----
+* 3/31  (0, 305) *****
+Rank	Name	Score	Finish Time 	Q1 (5)	Q2 (5)	Q3 (7)	Q4 (9)
+894 / 3074	abigcleverdog 	5	0:21:28	 0:21:28
+
+-----
+* 3/24  (0, 305) *****
+Rank	Name	Score	Finish Time 	Q1 (4)	Q2 (4)	Q3 (5)	Q4 (9)
+460 / 2982	abigcleverdog 	13	0:28:36	 0:10:05	 0:14:51	 0:28:36	
+
+-----
+* 3/23  (3, 305) *****
+1. 331 [Verify Preorder Serialization of a Binary Tree](https://github.com/abigcleverdog/LeetCode/blob/master/problems/331.md)
+2. 332 [Reconstruct Itinerary](https://github.com/abigcleverdog/LeetCode/blob/master/problems/332.md)
+3. 334 [Increasing Triplet Subsequence](https://github.com/abigcleverdog/LeetCode/blob/master/problems/334.md)
 
 -----
 * 3/22  (3, 305) *****
