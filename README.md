@@ -10,6 +10,17 @@
 | 2      		| 3/10/2018		| 516    | 2/4; 8/22  |
 | 1      		| 3/03/2018		| 490    | 2/4; 14/28 |
 
+
+-----
+* 4/3  (3, 308) *****
+1. 341 [Flatten Nested List Iterator](https://github.com/abigcleverdog/LeetCode/blob/master/problems/341.md)
+
+-----
+* 4/2  (3, 308) *****
+1. 335 [Self Crossing](https://github.com/abigcleverdog/LeetCode/blob/master/problems/335.md)
+2. 336 [Palindrome Pairs](https://github.com/abigcleverdog/LeetCode/blob/master/problems/336.md)
+3. 337 [House Robber III](https://github.com/abigcleverdog/LeetCode/blob/master/problems/337.md)
+
 -----
 * 3/31  (0, 305) *****
 Rank	Name	Score	Finish Time 	Q1 (5)	Q2 (5)	Q3 (7)	Q4 (9)
