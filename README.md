@@ -12,8 +12,13 @@
 
 
 -----
-* 4/3  (3, 308) *****
+* 4/3  (6, 314) *****
 1. 341 [Flatten Nested List Iterator](https://github.com/abigcleverdog/LeetCode/blob/master/problems/341.md)
+2. 343 [Integer Break](https://github.com/abigcleverdog/LeetCode/blob/master/problems/343.md)
+3. 352 [Data Stream as Disjoint Intervals](https://github.com/abigcleverdog/LeetCode/blob/master/problems/352.md)
+4. 354 [Russian Doll Envelopes](https://github.com/abigcleverdog/LeetCode/blob/master/problems/354.md)
+5. 355 [Design Twitter](https://github.com/abigcleverdog/LeetCode/blob/master/problems/355.md)
+6. 357 [Count Numbers with Unique Digits](https://github.com/abigcleverdog/LeetCode/blob/master/problems/357.md)
 
 -----
 * 4/2  (3, 308) *****
