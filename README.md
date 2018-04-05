@@ -11,6 +11,13 @@
 | 1      		| 3/03/2018		| 490    | 2/4; 14/28 |
 
 
+
+-----
+* 4/4  (3, 317) *****
+1. 363 [Max Sum of Rectangle No Larger Than K](https://github.com/abigcleverdog/LeetCode/blob/master/problems/363.md) -- not done
+2. 365 [Water and Jug Problem](https://github.com/abigcleverdog/LeetCode/blob/master/problems/365.md)
+3. 368 [Largest Divisible Subset](https://github.com/abigcleverdog/LeetCode/blob/master/problems/368.md)
+
 -----
 * 4/3  (6, 314) *****
 1. 341 [Flatten Nested List Iterator](https://github.com/abigcleverdog/LeetCode/blob/master/problems/341.md)
