@@ -11,6 +11,13 @@
 | 1      		| 3/03/2018		| 490    | 2/4; 14/28 |
 
 
+-----
+* 4/5  (5, 322) *****
+1. 372 [Super Pow](https://github.com/abigcleverdog/LeetCode/blob/master/problems/372.md)
+2. 373 [Find K Pairs with Smallest Sums](https://github.com/abigcleverdog/LeetCode/blob/master/problems/373.md)
+3. 375 [Guess Number Higher or Lower II](https://github.com/abigcleverdog/LeetCode/blob/master/problems/375.md)
+4. 376 [Wiggle Subsequence](https://github.com/abigcleverdog/LeetCode/blob/master/problems/376.md)
+5. 377 [Combination Sum IV](https://github.com/abigcleverdog/LeetCode/blob/master/problems/377.md)
 
 -----
 * 4/4  (3, 317) *****
