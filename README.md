@@ -12,6 +12,15 @@
 
 
 -----
+* 4/6  (6, 328) *****
+1. 378 [Kth Smallest Element in a Sorted Matrix](https://github.com/abigcleverdog/LeetCode/blob/master/problems/378.md)
+2. 380 [Insert Delete GetRandom O(1)](https://github.com/abigcleverdog/LeetCode/blob/master/problems/380.md)
+3. 381 [Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/abigcleverdog/LeetCode/blob/master/problems/381.md)
+4. 385 [Mini Parser](https://github.com/abigcleverdog/LeetCode/blob/master/problems/385.md)
+5. 386 [Lexicographical Numbers](https://github.com/abigcleverdog/LeetCode/blob/master/problems/386.md)
+6. 388 [Longest Absolute File Path](https://github.com/abigcleverdog/LeetCode/blob/master/problems/388.md)
+
+-----
 * 4/5  (5, 322) *****
 1. 372 [Super Pow](https://github.com/abigcleverdog/LeetCode/blob/master/problems/372.md)
 2. 373 [Find K Pairs with Smallest Sums](https://github.com/abigcleverdog/LeetCode/blob/master/problems/373.md)
