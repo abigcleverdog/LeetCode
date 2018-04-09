@@ -4,12 +4,26 @@
    
 | LC contests   | Week          | rank	 | result	  |
 | :-----------: |:-------------:| ------:| ---------: |
+| 6      		| 4/07/2018		| 161    | 3/4; 16/22 |
 | 5      		| 3/31/2018		| 894    | 1/4; 5/26  |
 | 4      		| 3/24/2018		| 460    | 3/4; 13/22 |
 | 3      		| 3/17/2018		| 414    | 1/4; 4/28  |
 | 2      		| 3/10/2018		| 516    | 2/4; 8/22  |
 | 1      		| 3/03/2018		| 490    | 2/4; 14/28 |
 
+
+-----
+* 4/8  (2, 332) *****
+1. 392 [Is Subsequence](https://github.com/abigcleverdog/LeetCode/blob/master/problems/392.md)
+2. 393 [UTF-8 Validation](https://github.com/abigcleverdog/LeetCode/blob/master/problems/393.md)
+
+-----
+* 4/7  (2, 330) *****
+Rank	Name	Score	Finish Time 	Q1 (4)	Q2 (5)	Q3 (6)	Q4 (7)
+161 / 2485	abigcleverdog 	16	1:10:16	 0:49:07	 0:18:16		 1:10:16
+
+1. 390 [Elimination Game](https://github.com/abigcleverdog/LeetCode/blob/master/problems/390.md)
+2. 391 [Perfect Rectangle](https://github.com/abigcleverdog/LeetCode/blob/master/problems/391.md)
 
 -----
 * 4/6  (6, 328) *****
