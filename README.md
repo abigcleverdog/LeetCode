@@ -13,6 +13,15 @@
 
 
 -----
+* 4/9  (6, 338) *****
+1. 394 [Decode String](https://github.com/abigcleverdog/LeetCode/blob/master/problems/394.md)
+2. 395 [Longest Substring with At Least K Repeating Characters](https://github.com/abigcleverdog/LeetCode/blob/master/problems/395.md)
+3. 396 [Rotate Function](https://github.com/abigcleverdog/LeetCode/blob/master/problems/396.md)
+4. 397 [Integer Replacement](https://github.com/abigcleverdog/LeetCode/blob/master/problems/397.md)
+5. 398 [Random Pick Index](https://github.com/abigcleverdog/LeetCode/blob/master/problems/398.md)
+6. 399 [Evaluate Division](https://github.com/abigcleverdog/LeetCode/blob/master/problems/399.md)
+
+-----
 * 4/8  (2, 332) *****
 1. 392 [Is Subsequence](https://github.com/abigcleverdog/LeetCode/blob/master/problems/392.md)
 2. 393 [UTF-8 Validation](https://github.com/abigcleverdog/LeetCode/blob/master/problems/393.md)
