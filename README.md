@@ -1,6 +1,8 @@
   # Overview
    Starting 12/06/2017, a diary for solving LeetCode problems.
    2018/1/16 strategy change, focus on the 1-400; round 1
+   2018/4/9  finished round 1 with python, skipped some problems, such as tricky dp or indiced tree etc and the paid problems.
+   2018/4/10 round 2 with java.
    
 | LC contests   | Week          | rank	 | result	  |
 | :-----------: |:-------------:| ------:| ---------: |
@@ -11,6 +13,29 @@
 | 2      		| 3/10/2018		| 516    | 2/4; 8/22  |
 | 1      		| 3/03/2018		| 490    | 2/4; 14/28 |
 
+Round 2 stack:
+can do: 4
+
+
+-----
+* 4/14   *****
+Rank	Name	Score	Finish Time 	Q1 (4)	Q2 (4)	Q3 (6)	Q4 (8)
+132 / 2570	abigcleverdog 	14	0:48:37	 0:12:04	 0:20:49  1	 0:43:37	
+
+-----
+* 4/13   *****
+it has been a little messy. so I guess just check in the progress daily for now.
+review progress: 20;
+java progress: 29
+
+-----
+* 4/11  (6, 338) *****
+6, 7, 8, 9, 10, 11, 12
+13 [Roman to Integer](https://github.com/abigcleverdog/LeetCode/blob/master/problems/13.md)
+
+-----
+* 4/10  (6, 338) *****
+1, 2, 3, 5, 6
 
 -----
 * 4/9  (6, 338) *****
