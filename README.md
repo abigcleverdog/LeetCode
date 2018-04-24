@@ -20,6 +20,20 @@ can do: 4, 30, 32,
 
 
 -----
+* 4/24   *****
+PriorityQueue offer, peek, poll; Comparable vs. Comparator.
+Deque for Stack; push(e), pop(), peek() (throw exceptions)
+rp: 33
+jp: 41
+
+-----
+* 4/23   *****
+1<<31 = -2147483648 (*return an int); 1L<<31 or (long) 1<<31 = 2147483648 (*return a long)
+Arrays.toString(arr) or Arrays.deepToString(arr) for arrays within arrays. 
+rp: 33
+jp: 41
+
+-----
 * 4/19   *****
 rp: 20
 jp: 41
