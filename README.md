@@ -23,7 +23,7 @@ can do: 4, 30, 32,
 * 4/24   *****
 PriorityQueue offer, peek, poll; Comparable vs. Comparator.
 Deque for Stack; push(e), pop(), peek() (throw exceptions)
-rp: 33
+rp: 35
 jp: 41
 
 -----
@@ -32,6 +32,11 @@ jp: 41
 Arrays.toString(arr) or Arrays.deepToString(arr) for arrays within arrays. 
 rp: 33
 jp: 41
+
+-----
+* 4/21   *****
+Rank	Name	Score	Finish Time 	Q1 (4)	Q2 (5)	Q3 (6)	Q4 (7)
+340 / 2797	abigcleverdog 	15	0:43:28	 0:43:28	 0:29:10	 0:17:41	
 
 -----
 * 4/19   *****
