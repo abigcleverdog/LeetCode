@@ -1,8 +1,8 @@
   # Overview
-   Starting 12/06/2017, a diary for solving LeetCode problems.
-   2018/1/16 strategy change, focus on the 1-400; round 1
-   2018/4/9  finished round 1 with python, skipped some problems, such as tricky dp or indiced tree etc and the paid problems.
-   2018/4/10 round 2 with java.
+   Starting 12/06/2017, a diary for solving LeetCode problems.  
+   2018/1/16 strategy change, focus on the 1-400; round 1  
+   2018/4/9  finished round 1 with python, skipped some problems, such as tricky dp or indiced tree etc and the paid problems.  
+   2018/4/10 round 2 with java.  
    
 | LC contests   | Week          | rank	 | result	  |
 | :-----------: |:-------------:| ------:| ---------: |
@@ -15,23 +15,28 @@
 | 2      		| 3/10/2018		| 516    | 2/4; 8/22  |
 | 1      		| 3/03/2018		| 490    | 2/4; 14/28 |
 
-Round 2 stack:
-can do: 4, 30, 32,
-
+Round 2 stack:  
+can do: 4, 30, 32,  
 
 -----
-* 4/24   *****
-PriorityQueue offer, peek, poll; Comparable vs. Comparator.
-Deque for Stack; push(e), pop(), peek() (throw exceptions)
-rp: 35
+* 4/25   *****  
+notated someone's 37 [Sudoku Solver](https://github.com/abigcleverdog/LeetCode/blob/master/problems/37.md) 2ms solution
+rp: 37  
 jp: 41
 
 -----
-* 4/23   *****
-1<<31 = -2147483648 (*return an int); 1L<<31 or (long) 1<<31 = 2147483648 (*return a long)
-Arrays.toString(arr) or Arrays.deepToString(arr) for arrays within arrays. 
-rp: 33
-jp: 41
+* 4/24   *****  
+PriorityQueue offer, peek, poll; Comparable vs. Comparator.  
+Deque for Stack; push(e), pop(), peek() (throw exceptions)  
+rp: 35  
+jp: 41  
+
+-----
+* 4/23   *****  
+1<<31 = -2147483648 (*return an int); 1L<<31 or (long) 1<<31 = 2147483648 (*return a long)  
+Arrays.toString(arr) or Arrays.deepToString(arr) for arrays within arrays.   
+rp: 33  
+jp: 41  
 
 -----
 * 4/21   *****
