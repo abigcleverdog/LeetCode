@@ -18,9 +18,18 @@
 Round 2 stack:  
 can do: 4, 30, 32,  
 
+
+-----
+* 4/26   *****  
+convert an int to string: int.toString() doesn't work as int is a primative type, not an object, so no method associates with it; have to do Integer.toString(int), Integer is an object.  
+int + char1 will return a char2 whose ascii is greater than char1 by int  
+an obj i.e. TreeNode can be compared to another TreeNode when we implement the comparable interface; however we can compare two TreeNode references if they are pointing to the same TreeNode (TreeNode a == TreeNode b).  
+rp: 41  
+jp: 41
+
 -----
 * 4/25   *****  
-notated someone's 37 [Sudoku Solver](https://github.com/abigcleverdog/LeetCode/blob/master/problems/37.md) 2ms solution
+notated someone's 37 [Sudoku Solver](https://github.com/abigcleverdog/LeetCode/blob/master/problems/37.md) 2ms solution  
 rp: 37  
 jp: 41
 
