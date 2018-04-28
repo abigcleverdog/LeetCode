@@ -20,6 +20,11 @@ can do: 4, 30, 32,
 
 
 -----
+* 4/27   *****    
+rp: 43  
+jp: 41
+
+-----
 * 4/26   *****  
 convert an int to string: int.toString() doesn't work as int is a primative type, not an object, so no method associates with it; have to do Integer.toString(int), Integer is an object.  
 int + char1 will return a char2 whose ascii is greater than char1 by int  
