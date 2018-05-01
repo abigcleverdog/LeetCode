@@ -17,7 +17,34 @@
 | 1      		| 3/03/2018		| 490    | 2/4; 14/28 |
 
 Round 2 stack:  
-can do: 4, 30, 32,  
+can do: 30, 32,  
+
+-----
+* 4/29   *****    
+rp: 41  
+jp: 50
+
+-----
+* 4/30   *****    
+int to String:  
+int i = 1;  
+1. i + "";  -->  "1"  
+2. String.valueOf(i); --> "1"  
+3. Integer.toString(i); -->  "1"  
+
+Integer i = 1;  
+1. i.toString();  --> "1" * be careful of nullpointerexception  
+2. String.valueOf(i); "1" * will be "null" if i is null  
+
+String to int:  
+String s = "1";  
+1. Integer.valueOf(s);  --> 1 * boxed integer object  
+2. Integer.parseInt(s);  --> 1 * primative int  
+
+Integer auto cache: -128 ~ 127  
+
+rp: 3  
+jp: 50
 
 -----
 * 4/29   *****    
