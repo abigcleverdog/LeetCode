@@ -20,6 +20,18 @@ Round 2 stack:
 can do: 30, 32,  
 
 -----
+* 5/3   *****    
+rp: 22  
+jp: 50
+
+-----
+* 5/2   *****  
+print simple array: Arrays.toString(arr);  
+print nested array: Arrays.deepToString(arr);
+rp: 17  
+jp: 50
+
+-----
 * 5/1   *****    
 rp: 6  
 jp: 50
