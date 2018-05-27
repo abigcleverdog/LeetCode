@@ -22,6 +22,16 @@
 Round 2 stack:  
 can do:   
 
+-----   
+* 5/26   ***** computer crushed :(   
+Rank	Name	Score	Finish Time 	Q1 (3)	Q2 (5)	Q3 (6)	Q4 (8)   
+1031 / 2697	abigcleverdog 	5	0:38:37		 0:38:37		
+
+-----
+* 5/25   *****    
+rp: 50  
+jp: 75  
+
 -----
 * 5/24   *****    
 rp: 50  
