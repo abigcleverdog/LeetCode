@@ -24,6 +24,12 @@
 Round 2 stack:  
 can do: 
 
+
+-----
+* 6/7   *****    
+rp: 50  
+jp: 86  
+
 -----   
 * 6/2   ***** 
 Rank	Name	Score	Finish Time 	Q1 (3)	Q2 (5)	Q3 (5)	Q4 (8)   
