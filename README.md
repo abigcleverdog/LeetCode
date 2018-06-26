@@ -27,13 +27,17 @@
 Round 2 stack:  
 can do: 
 
+-----   
+* 6/25   *****    
+rp: 57  
+jp: 100  
 
 -----   
 * 6/23   *****   
 Rank	Name	Score	Finish Time 	Q1 (4)	Q2 (5)	Q3 (6)	Q4 (9)    
 409 / 4410	abigcleverdog 	15	1:47:12	 0:13:11  2	 0:21:43  1	 1:12:12  4	   
 
------
+-----   
 * 6/18   *****    
 rp: 50  
 jp: 98  
@@ -43,7 +47,7 @@ jp: 98  
 Rank	Name	Score	Finish Time 	Q1 (2)	Q2 (6)	Q3 (6)	Q4 (10)    
 420 / 3646	abigcleverdog 	8	0:44:21	 0:09:47	 0:39:21  1		 	 
 
------
+-----   
 * 6/11   *****    
 rp: 50  
 jp: 91  
